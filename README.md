@@ -1,5 +1,7 @@
 # Fabriquez-votre-g-n-rateur-BF-Partie-4-le-PCB-Principal-DFTA266Quatro
 
+Vidéo YouTube : https://youtu.be/D2XhKlnVvlU
+ 
 Générateur BF - Carte DDS AD9833
 Présentation
 
@@ -47,3 +49,22 @@ Logiciels utilisés
 KiCad
 Arduino IDE
 Bibliothèque MD_AD9833
+
+Évolutions prévues
+
+Cette carte constitue la base du projet.
+
+Les prochaines réalisations porteront sur :
+
+alimentation à zéro virtuel
+traitement analogique du signal
+réglage de l'amplitude
+offset continu
+filtrage
+étage de sortie
+protection contre les courts-circuits
+génération de dents de scie
+wobulation
+interface utilisateur évoluée
+
+
