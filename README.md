@@ -13,29 +13,52 @@ Le projet est volontairement découpé en plusieurs cartes afin de valider chaqu
 
 Caractéristiques
 Seeeduino XIAO
+
 DDS AD9833
+
 ATtiny85 pour le décodage des modes
+
 Alimentation +12 V
+
 Convertisseur RECOM +5 V
+
 Écran OLED I²C
+
 Deux potentiomètres
+
 sélection des gammes de fréquence
+
 sélection des formes d'onde
+
 Deux boutons poussoirs
+
 fréquence +
+
 fréquence –
+
 Sorties :
+
 DDS
+
 +12 V
+
 +5 V
+
 PB0
+
 PB1
+
 PB2
-Formes d'onde
+
+Formes d'onde :
+
 Sinus
+
 Triangle
+
 Carré
 Gammes de fréquence
+
 1 Hz
 10 Hz
 100 Hz
