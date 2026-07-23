@@ -1,4 +1,4 @@
-# Fabriquez-votre-g-n-rateur-BF-Partie-4-le-PCB-Principal-DFTA266Quatro
+# Fabriquez-votre-generateur-BF-Partie-4-le-PCB-Principal-DFTA266Quatro
 
 Vidéo YouTube : https://youtu.be/D2XhKlnVvlU
  
