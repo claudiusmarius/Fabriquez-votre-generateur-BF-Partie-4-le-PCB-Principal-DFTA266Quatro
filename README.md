@@ -30,7 +30,7 @@ sélection des gammes de fréquence
 
 sélection des formes d'onde
 
-Deux boutons poussoirs
+Deux boutons poussoirs :
 
 fréquence +
 
@@ -57,6 +57,7 @@ Sinus
 Triangle
 
 Carré
+
 Gammes de fréquence
 
 1 Hz
